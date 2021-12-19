@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RGR</string>
+    <string name="show_password">show password</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="wrongPassword">Wrong Password!</string>
+    <string name="wrongLogin">Wrong Login!</string>
+    <string name="newPassword">NewPassword</string>
+    <string name="save">save</string>
+    <string name="welcome">Welcome</string>
+    <string name="savedMsg">Password saved</string>
+</resources>
